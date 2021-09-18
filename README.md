@@ -4,6 +4,9 @@ Chrome Extension built with React which creates strong password.
 
 [Watch this Video](https://www.loom.com/share/7cea85019b8e4a899a26ea3096c16a97)
 
+
+## Getting Started
+
 ```shell
 yarn install
 ```
